@@ -2,3 +2,4 @@
 .direnv
 result
 zig-cache
+data
